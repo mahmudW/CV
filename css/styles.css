@@ -1,0 +1,41 @@
+body {
+    background-color: #eaf6f6;
+    margin: 0 100px 0;
+}
+
+h1 {
+    color: #66bfbf;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+hr {
+    border-style: none;
+    border-top: 7px;
+    border-color: grey;
+    border-top-style: dotted;
+    width: 5%;
+}
+
+img:hover {
+    background-color: whitesmoke;
+}
+
+#profile {
+    border-radius: 100%;
+}
+
+.heading {
+    font-size: 40px;
+}
+
+.tableCenter {
+    margin: 0 25% 0;
+}
+
+td {
+    margin: 0px;
+    padding: 0px;
+}
